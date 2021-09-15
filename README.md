@@ -1,21 +1,21 @@
 <div class="markdown-body"><p></p>
 <p><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p>
 <h2>
-<a id="user-content-hey-there-im-aditya" class="anchor" aria-hidden="true" name="hey-there-im-aditya"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Hey there! I'm Aditya</h2>
+<a id="user-content-hey-there-im-aditya" class="anchor" aria-hidden="true" name="hey-there-im-aditya"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Hola! I am Abdalla A</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Abdalla A -->
 <h3>
 <a id="user-content--about-me" class="anchor" aria-hidden="true" name="-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>👨🏻&zwj;💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>
+<p>💡 &nbsp;I like to explore new technologies and develop software solutions.<br>
+🎓 &nbsp;I'm currently an employeer <br>
+🌱 &nbsp;I'm on track for learning more about VueJs and mobile apps.<br>
+✍️ &nbsp;In my free time, I work on projects as a self-taught.<br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu" rel="nofollow">avsingh@umass.edu</a>! I'll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html" rel="nofollow">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
+✉️ &nbsp;You can shoot me an email at <a href="https://twitter.com/abdu_amigo" rel="nofollow">Twitter</a>! I'll try to respond as soon as I can.<br>
+📄 &nbsp;Please have a look at my <a href="https://www.abduamigo.com" rel="nofollow">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3>
 <a id="user-content--tech-stack" class="anchor" aria-hidden="true" name="-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>🛠 &nbsp;Tech Stack</h3>
-<p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
+<p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=php" alt="PHP">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
